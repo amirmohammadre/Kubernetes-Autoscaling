@@ -3,7 +3,8 @@
 This repository contains files related to the **Kubernetes Autoscaling** presentation.  
 The presentation covers different types of **auto-scaling** in Kubernetes, including:  
 - **Horizontal Pod Autoscaler (HPA)**  
-- **Vertical Pod Autoscaler (VPA)**  
+- **Vertical Pod Autoscaler (VPA)**
+- **Cluster Autoscaler (CA)** 
 
 ## 📂 Contents  
 - **Presentation slide** (`Presentation.pdf`)  
